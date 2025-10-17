@@ -22,9 +22,9 @@ I am a first-year master student in **theoretical physics**, specializing in **m
 - Machine learning and AI applications  
 
 ### 📫 How to Reach Me
-- Email: `your-email@example.com`  
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- Website: [https://victor-pcll.github.io/Studio-Bernoulli/]
+- Email: victor.peucelle@epfl.ch  
+- LinkedIn: [linkedin.com/in/victor-peucelle](https://www.linkedin.com/in/victor-peucelle-521910275/)
+- Website: [Studio Bernoulli]([Studio Bernoulli](https://victor-pcll.github.io/Studio-Bernoulli/))
 
 ### ⚡ Fun Fact
 - I run my own mini dev studio, **Studio Bernoulli**, where I experiment with physics, coding, and creative software projects!
