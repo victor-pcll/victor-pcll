@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi there 👋, I'm Victor!
 
-<!--
-**victor-pcll/victor-pcll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a first-year master student in **theoretical physics**, specializing in **machine learning** applications. I combine my scientific background with practical software development skills.  
 
-Here are some ideas to get you started:
+### 🔭 Currently Working On
+- Computational physics projects and simulations with machine learning models  
+- Full-stack development projects at my personal dev studio: **Studio Bernoulli**  
+- Exploring AI, data visualization, and interactive web applications  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+- Advanced numerical methods in physics  
+- Rust, Python, and modern web frameworks (React, Vue.js, Tailwind CSS)  
+- Machine learning and transformer architectures for scientific data  
+
+### 👯 Looking to Collaborate On
+- Open-source scientific computing or AI projects  
+- Innovative web applications and full-stack projects  
+
+### 💬 Ask Me About
+- Theoretical physics, quantum mechanics, and numerical simulations  
+- Full-stack development, coding practices, and project architecture  
+- Machine learning and AI applications  
+
+### 📫 How to Reach Me
+- Email: `your-email@example.com`  
+- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- Website: [https://victor-pcll.github.io/Studio-Bernoulli/]
+
+### ⚡ Fun Fact
+- I run my own mini dev studio, **Studio Bernoulli**, where I experiment with physics, coding, and creative software projects!
