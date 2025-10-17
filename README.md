@@ -24,7 +24,7 @@ I am a first-year master student in **theoretical physics**, specializing in **m
 ### 📫 How to Reach Me
 - Email: victor.peucelle@epfl.ch  
 - LinkedIn: [linkedin.com/in/victor-peucelle](https://www.linkedin.com/in/victor-peucelle-521910275/)
-- Website: [Studio Bernoulli]([Studio Bernoulli](https://victor-pcll.github.io/Studio-Bernoulli/))
+- Website: [Studio Bernoulli](https://victor-pcll.github.io/Studio-Bernoulli/)
 
 ### ⚡ Fun Fact
 - I run my own mini dev studio, **Studio Bernoulli**, where I experiment with physics, coding, and creative software projects!
